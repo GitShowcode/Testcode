@@ -23,6 +23,8 @@
     banner.backgroundColor=[UIColor whiteColor];
     //修改了颜色
     
+    UIView *heheview;
+    
     
     NSMutableArray *services=[NSMutableArray arrayWithCapacity:10];
     
