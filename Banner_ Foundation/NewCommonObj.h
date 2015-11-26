@@ -9,5 +9,8 @@
 #import <Foundation/Foundation.h>
 
 @interface NewCommonObj : NSObject
+@property (nonatomic,strong)NSString *newid;
+@property (nonatomic,strong)NSString *imgurl;
+@property (nonatomic,assign)long newtype;
 
 @end

@@ -7,15 +7,29 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6048AB201C05E6AF009270D6 /* u=975193274,1966237050&fm=21&gp=0.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6048AB1B1C05E6AF009270D6 /* u=975193274,1966237050&fm=21&gp=0.jpg */; };
+		6048AB211C05E6AF009270D6 /* u=1615482946,3641545976&fm=21&gp=0.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6048AB1C1C05E6AF009270D6 /* u=1615482946,3641545976&fm=21&gp=0.jpg */; };
+		6048AB221C05E6AF009270D6 /* u=3337457456,2351338921&fm=21&gp=0.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6048AB1D1C05E6AF009270D6 /* u=3337457456,2351338921&fm=21&gp=0.jpg */; };
+		6048AB231C05E6AF009270D6 /* u=4048534258,1414738821&fm=21&gp=0.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6048AB1E1C05E6AF009270D6 /* u=4048534258,1414738821&fm=21&gp=0.jpg */; };
+		6048AB241C05E6AF009270D6 /* u=516038842,4000674297&fm=21&gp=0.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6048AB1F1C05E6AF009270D6 /* u=516038842,4000674297&fm=21&gp=0.jpg */; };
+		60B3AD011C06D45F00F1AA27 /* NewCommonObj.m in Sources */ = {isa = PBXBuildFile; fileRef = 60B3AD001C06D45F00F1AA27 /* NewCommonObj.m */; };
 		60CDF74C1C05C394003C3B43 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 60CDF74B1C05C394003C3B43 /* main.m */; };
 		60CDF74F1C05C394003C3B43 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 60CDF74E1C05C394003C3B43 /* AppDelegate.m */; };
 		60CDF7521C05C394003C3B43 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 60CDF7511C05C394003C3B43 /* ViewController.m */; };
 		60CDF7551C05C394003C3B43 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 60CDF7531C05C394003C3B43 /* Main.storyboard */; };
 		60CDF7571C05C394003C3B43 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 60CDF7561C05C394003C3B43 /* Assets.xcassets */; };
 		60CDF75A1C05C394003C3B43 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 60CDF7581C05C394003C3B43 /* LaunchScreen.storyboard */; };
+		60CDF7651C05C468003C3B43 /* Basic_Banner_Gencare.m in Sources */ = {isa = PBXBuildFile; fileRef = 60CDF7641C05C468003C3B43 /* Basic_Banner_Gencare.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6048AB1B1C05E6AF009270D6 /* u=975193274,1966237050&fm=21&gp=0.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "u=975193274,1966237050&fm=21&gp=0.jpg"; sourceTree = "<group>"; };
+		6048AB1C1C05E6AF009270D6 /* u=1615482946,3641545976&fm=21&gp=0.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "u=1615482946,3641545976&fm=21&gp=0.jpg"; sourceTree = "<group>"; };
+		6048AB1D1C05E6AF009270D6 /* u=3337457456,2351338921&fm=21&gp=0.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "u=3337457456,2351338921&fm=21&gp=0.jpg"; sourceTree = "<group>"; };
+		6048AB1E1C05E6AF009270D6 /* u=4048534258,1414738821&fm=21&gp=0.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "u=4048534258,1414738821&fm=21&gp=0.jpg"; sourceTree = "<group>"; };
+		6048AB1F1C05E6AF009270D6 /* u=516038842,4000674297&fm=21&gp=0.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "u=516038842,4000674297&fm=21&gp=0.jpg"; sourceTree = "<group>"; };
+		60B3ACFF1C06D45F00F1AA27 /* NewCommonObj.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NewCommonObj.h; sourceTree = "<group>"; };
+		60B3AD001C06D45F00F1AA27 /* NewCommonObj.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NewCommonObj.m; sourceTree = "<group>"; };
 		60CDF7471C05C394003C3B43 /* Banner_ Foundation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Banner_ Foundation.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		60CDF74B1C05C394003C3B43 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		60CDF74D1C05C394003C3B43 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -26,6 +40,9 @@
 		60CDF7561C05C394003C3B43 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		60CDF7591C05C394003C3B43 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		60CDF75B1C05C394003C3B43 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		60CDF7621C05C3DC003C3B43 /* Gencare.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Gencare.h; sourceTree = "<group>"; };
+		60CDF7631C05C468003C3B43 /* Basic_Banner_Gencare.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Basic_Banner_Gencare.h; sourceTree = "<group>"; };
+		60CDF7641C05C468003C3B43 /* Basic_Banner_Gencare.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Basic_Banner_Gencare.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,10 +75,20 @@
 		60CDF7491C05C394003C3B43 /* Banner_ Foundation */ = {
 			isa = PBXGroup;
 			children = (
+				6048AB1B1C05E6AF009270D6 /* u=975193274,1966237050&fm=21&gp=0.jpg */,
+				6048AB1C1C05E6AF009270D6 /* u=1615482946,3641545976&fm=21&gp=0.jpg */,
+				6048AB1D1C05E6AF009270D6 /* u=3337457456,2351338921&fm=21&gp=0.jpg */,
+				6048AB1E1C05E6AF009270D6 /* u=4048534258,1414738821&fm=21&gp=0.jpg */,
+				6048AB1F1C05E6AF009270D6 /* u=516038842,4000674297&fm=21&gp=0.jpg */,
 				60CDF74D1C05C394003C3B43 /* AppDelegate.h */,
 				60CDF74E1C05C394003C3B43 /* AppDelegate.m */,
 				60CDF7501C05C394003C3B43 /* ViewController.h */,
 				60CDF7511C05C394003C3B43 /* ViewController.m */,
+				60CDF7631C05C468003C3B43 /* Basic_Banner_Gencare.h */,
+				60CDF7641C05C468003C3B43 /* Basic_Banner_Gencare.m */,
+				60B3ACFF1C06D45F00F1AA27 /* NewCommonObj.h */,
+				60B3AD001C06D45F00F1AA27 /* NewCommonObj.m */,
+				60CDF7621C05C3DC003C3B43 /* Gencare.h */,
 				60CDF7531C05C394003C3B43 /* Main.storyboard */,
 				60CDF7561C05C394003C3B43 /* Assets.xcassets */,
 				60CDF7581C05C394003C3B43 /* LaunchScreen.storyboard */,
@@ -137,8 +164,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				60CDF75A1C05C394003C3B43 /* LaunchScreen.storyboard in Resources */,
+				6048AB241C05E6AF009270D6 /* u=516038842,4000674297&fm=21&gp=0.jpg in Resources */,
+				6048AB231C05E6AF009270D6 /* u=4048534258,1414738821&fm=21&gp=0.jpg in Resources */,
 				60CDF7571C05C394003C3B43 /* Assets.xcassets in Resources */,
 				60CDF7551C05C394003C3B43 /* Main.storyboard in Resources */,
+				6048AB201C05E6AF009270D6 /* u=975193274,1966237050&fm=21&gp=0.jpg in Resources */,
+				6048AB221C05E6AF009270D6 /* u=3337457456,2351338921&fm=21&gp=0.jpg in Resources */,
+				6048AB211C05E6AF009270D6 /* u=1615482946,3641545976&fm=21&gp=0.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -149,7 +181,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				60CDF7651C05C468003C3B43 /* Basic_Banner_Gencare.m in Sources */,
 				60CDF7521C05C394003C3B43 /* ViewController.m in Sources */,
+				60B3AD011C06D45F00F1AA27 /* NewCommonObj.m in Sources */,
 				60CDF74F1C05C394003C3B43 /* AppDelegate.m in Sources */,
 				60CDF74C1C05C394003C3B43 /* main.m in Sources */,
 			);
@@ -213,7 +247,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
@@ -250,7 +284,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
@@ -262,6 +296,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = "Banner_ Foundation/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.gencare.Banner--Foundation";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -273,6 +308,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = "Banner_ Foundation/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.gencare.Banner--Foundation";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -298,6 +334,7 @@
 				60CDF7601C05C394003C3B43 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
