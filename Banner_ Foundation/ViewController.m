@@ -17,9 +17,12 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    
     Basic_Banner_Gencare*  banner=[[Basic_Banner_Gencare alloc] initWithFrame:CGRectMake(10, 20+20, SCREEN_WIDTH-20, 300)];
     [self.view addSubview:banner];
-    banner.backgroundColor=[UIColor redColor];
+    banner.backgroundColor=[UIColor whiteColor];
+    //修改了颜色
+    
     
     NSMutableArray *services=[NSMutableArray arrayWithCapacity:10];
     
